@@ -172,7 +172,6 @@
         <!-- Image Section -->
         <div >
         <img src="{{ asset('assests/image/cover.jpg') }}" alt="Logo" class="img-fluid blurred-image">
-sss
         </div>
 
         <!-- Login Form Section -->
